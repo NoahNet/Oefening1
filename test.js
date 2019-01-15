@@ -1,5 +1,5 @@
-function herhaal(seconden){
-  for (vari =0; i<seconden; i++){
-    document.writeln("al " + i+" Seconden niet aan autos gedacht");
+function herhaal(getal){
+  for (vari =0; i<getal; i++){
+    document.writeln("al " + i+" Getallen");
     }
 }
